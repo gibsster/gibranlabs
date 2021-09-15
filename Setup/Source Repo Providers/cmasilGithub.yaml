@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:98mshLjHQtuxthIBqBGUwg
+url: https://github.com/ChituJay/adminlab.git
+urlType: REPO
+username: ChituJay
